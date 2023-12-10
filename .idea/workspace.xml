@@ -4,8 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b2be270-cb96-4bd9-a910-bf321fb06644" name="Changes" comment="">
+    <list default="true" id="c9f6ddbf-deea-400d-bf96-d3e8561ce83d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/BasketDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/CactusFlower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/CreditCartPaymentStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/DHLDeliveryStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/FlowerBucket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/FlowerColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/FlowerPack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/FlowerType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/ItemDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/PaperDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/PayPalPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/PostDeliveryStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/RibbonDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Romashka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/app/ControllerIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/app/ControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/BasketDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/CactusFlower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/CreditCartPaymentStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/DHLDeliveryStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Delivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/FlowerBucket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/FlowerColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/FlowerPack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/FlowerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/ItemDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/PaperDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/PayPalPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/PostDeliveryStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/RibbonDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Romashka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/app/ControllerIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/app/ControllerTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +70,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,9 +78,9 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2ZGvI7G05iPrnlk3T4aQKYZRSzX" />
+  <component name="ProjectId" id="2ZGrx8xYWTzdldePo00XeUG2wWn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,9 +89,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.LabApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/marta/UCU/oop_labs/oop_lab7",
+    "last_opened_file_path": "/home/marta/UCU/OOP/Lab_7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,21 +103,21 @@
 }]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="oop_lab7" />
+      <module name="spring-boot-complete" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="oop_lab7" />
+      <module name="spring-boot-complete" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-boot-complete" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+    <configuration name="LabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Lab7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.edu.ucu.lab.LabApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,13 +133,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b2be270-cb96-4bd9-a910-bf321fb06644" name="Changes" comment="" />
-      <created>1702061147621</created>
+      <changelist id="c9f6ddbf-deea-400d-bf96-d3e8561ce83d" name="Changes" comment="" />
+      <created>1702059500654</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1702061147621</updated>
-      <workItem from="1702061148640" duration="146000" />
-      <workItem from="1702225486812" duration="922000" />
+      <updated>1702059500654</updated>
+      <workItem from="1702059501685" duration="696000" />
+      <workItem from="1702228992658" duration="801000" />
     </task>
     <servers />
   </component>
