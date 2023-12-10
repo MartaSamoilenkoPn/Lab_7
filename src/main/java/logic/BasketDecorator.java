@@ -4,11 +4,11 @@ public class BasketDecorator extends ItemDecorator {
 
     @Override
     double price() {
-        return 10;
+        return 4;
     }
 
     @Override
     public String getDescription() {
-        return "Basket: 10 UAH";
+        return "Basket: 4 UAH";
     }
 }
